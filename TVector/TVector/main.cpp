@@ -1,1 +1,0 @@
-// Copyright 2025 Pozdnova Polina
